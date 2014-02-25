@@ -1,6 +1,9 @@
 # Mac OS files
 .DS_Store
 
+# Backup files
+*.~
+
 # Object files
 *.o
 *.ko
