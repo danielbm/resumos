@@ -2,7 +2,7 @@
 
 # PRINCÍPIOS GERAIS
 
-Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
+**Art. 145.** A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
   
   - impostos;
   - taxas, em razão:
@@ -14,7 +14,7 @@ Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão ins
      2. e serão graduados segundo a capacidade econômica do contribuinte
   - As taxas não poderão ter base de cálculo própria de impostos.
 
-Art. 146. Cabe à lei complementar:
+**Art. 146.** Cabe à lei complementar:
 
   1. **dispor sobre conflitos de competência**, em matéria tributária, entre a União, os Estados, o Distrito Federal e os Municípios;
   2. **regular as limitações constitucionais ao poder de tributar**;
@@ -25,18 +25,18 @@ Art. 146. Cabe à lei complementar:
     - definição de **tratamento diferenciado e favorecido para as microempresas** e para as empresas de pequeno porte.
 
 
-Art. 146-A. Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo.
+**Art. 146-A.** Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo.
 
-Art. 147. Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais.
+**Art. 147.** Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais.
 
-Art. 148. A União, mediante **lei complementar**, poderá instituir **empréstimos compulsórios**:
+**Art. 148.** A União, mediante **lei complementar**, poderá instituir **empréstimos compulsórios**:
 
   - para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;
   - no caso de investimento público de caráter urgente e de relevante interesse nacional.
 
 Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição.
 
-Art. 149. Compete **exclusivamente à União** instituir **contribuições sociais**, de **intervenção no domínio econômico** e de **interesse das categorias profissionais ou econômicas**, como instrumento de sua atuação nas respectivas áreas.
+**Art. 149.** Compete **exclusivamente à União** instituir **contribuições sociais**, de **intervenção no domínio econômico** e de **interesse das categorias profissionais ou econômicas**, como instrumento de sua atuação nas respectivas áreas.
 
 § 1º Os **Estados**, o Distrito Federal e os Municípios instituirão **contribuição**, cobrada de seus servidores, para o custeio, em benefício destes, do **regime previdenciário**, cuja alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.
 
@@ -52,14 +52,14 @@ Art. 149. Compete **exclusivamente à União** instituir **contribuições socia
 
 § 4º A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
 
-Art. 149-A Os **Municípios e o Distrito Federal** poderão instituir **contribuição**, na forma das respectivas leis, para o **custeio do serviço de iluminação pública**.
+**Art. 149-A.** Os **Municípios e o Distrito Federal** poderão instituir **contribuição**, na forma das **respectivas leis, para o **custeio do serviço de iluminação pública**.**
 
 Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica.
 
 
 # DAS LIMITAÇÕES DO PODER DE TRIBUTAR
 
-Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+**Art. 150.** Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
 
   - exigir ou aumentar tributo sem lei que o estabeleça;
   - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;
@@ -81,18 +81,18 @@ Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é veda
 
 § 7.º **A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição**, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.
 
-Art. 151. É vedado à União:
+**Art. 151.** É vedado à União:
 
   - **instituir tributo que não seja uniforme em todo o território nacional** ou que implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, **admitida a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre as diferentes regiões do País**;
   - tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes;
   - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios.
 
-Art. 152. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
+**Art. 152.** É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
 
 
 # DOS IMPOSTOS DA UNIÃO
 
-Art. 153. Compete à **União** instituir impostos sobre:
+**Art. 153.** Compete à **União** instituir impostos sobre:
 
   1. **importação de produtos estrangeiros;**
   2. **exportação, para o exterior, de produtos nacionais ou nacionalizados;**
@@ -116,7 +116,7 @@ Art. 153. Compete à **União** instituir impostos sobre:
   - trinta por cento para o Estado, o Distrito Federal ou o Território, conforme a origem;
   - setenta por cento para o Município de origem.
 
-Art. 154. A União poderá instituir:
+**Art. 154.** A União poderá instituir:
 
   - **mediante lei complementar, impostos não previstos no artigo anterior**, desde que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
   - **na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária**, os quais serão suprimidos, gradativamente, cessadas as causas de sua criação.
@@ -124,7 +124,7 @@ Art. 154. A União poderá instituir:
 
 # DOS IMPOSTOS DOS ESTADOS E DO DISTRITO FEDERAL
 
-Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
+**Art. 155.** Compete aos Estados e ao Distrito Federal instituir impostos sobre:
 
 ## ITCMD: transmissão causa mortis e doação, de quaisquer bens ou direitos
 
@@ -260,7 +260,7 @@ Pertencem aos Municípios:
   - vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação.
 
 
-Art. 159. A União entregará:
+**Art. 159.** A União entregará:
 
   - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados quarenta e oito por cento na seguinte forma:
     - vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
@@ -271,7 +271,7 @@ Art. 159. A União entregará:
   - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei
 
 
-Art. 162. A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar e a expressão numérica dos critérios de rateio.
+**Art. 162.** A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar e a expressão numérica dos critérios de rateio.
 
 Parágrafo único. Os dados divulgados pela União serão discriminados por Estado e por Município; os dos Estados, por Município.
 
@@ -313,7 +313,7 @@ Cabe a lei complementar regular as situações em que:
   - dispor sobre **substituição tributária**;
   - disciplinar o **regime de compensação** do imposto;
   - fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;
-  - excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, "a";
+  - excluir da incidência do imposto, nas exportações para o **exterior**, serviços e outros produtos além dos mencionados no inciso X, "a";
   - prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;
   - **regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados**
   - **definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez**
