@@ -126,7 +126,7 @@ Art. 154. A União poderá instituir:
 
 Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
 
-## ICMS: transmissão causa mortis e doação, de quaisquer bens ou direitos
+## ITCMD: transmissão causa mortis e doação, de quaisquer bens ou direitos
 
 ### relativamente a bens imóveis
 
@@ -141,6 +141,9 @@ Compete ao Estado onde se processar o inventário ou arrolamento, ou tiver domic
 
   - se o doador tiver domicilio ou residência no exterior;
   - se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior;
+
+
+## ICMS
 
 ### Alíquota
 
@@ -271,4 +274,54 @@ Art. 159. A União entregará:
 Art. 162. A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar e a expressão numérica dos critérios de rateio.
 
 Parágrafo único. Os dados divulgados pela União serão discriminados por Estado e por Município; os dos Estados, por Município.
+
+
+
+
+****
+
+# Coisas que São Reguladas por Lei Complementar
+
+
+## Geral
+
+  - Dispor sobre **conflitos de competência**, em matéria tributária, entre os entes;
+  - **regular as limitações constitucionais ao poder de tributar**;
+  - **estabelecer normas** gerais em matéria de legislação tributária, especialmente sobre:
+    - **definição de tributos e de suas espécies**, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos **fatos geradores, bases de cálculo e contribuintes**;
+    - **obrigação, lançamento, crédito, prescrição e decadência tributários**;
+    - adequado tratamento tributário ao **ato cooperativo praticado pelas sociedades cooperativas**.
+    - definição de **tratamento diferenciado e favorecido para as microempresas** e para as empresas de pequeno porte.
+  - **estabelecer critérios especiais de tributação**, com o objetivo de prevenir **desequilíbrios da concorrência**
+  - instituição de **empréstimos compulsórios**;
+  - instituição do **imposto sobre grandes fortunas;**
+  - **instituir outros impostos**, desde que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
+
+## Relacionadas a Tributos Estaduais e Municipais
+
+### ITCMD
+
+Cabe a lei complementar regular as situações em que:
+
+  - se o doador tiver domicilio ou residência no **exterior**;
+  - se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no **exterior**;
+
+
+### ICMS
+
+  - **definir seus contribuintes**;
+  - dispor sobre **substituição tributária**;
+  - disciplinar o **regime de compensação** do imposto;
+  - fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;
+  - excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, "a";
+  - prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;
+  - **regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados**
+  - **definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez**
+  - **fixar a base de cálculo**, de modo que o montante do imposto a integre, também na **importação** do exterior de bem, mercadoria ou serviço.
+
+### ISS
+
+  - **fixar as suas alíquotas máximas e mínimas**;
+  - **excluir** da sua incidência **exportações** de serviços para o exterior.
+  – regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 
