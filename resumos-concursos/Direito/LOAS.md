@@ -1,4 +1,4 @@
-# BENEFÍCIO DE ASSISTÊNCIA SOCIAL AOIDOSO E AO DEFICIENTE – LOAS
+# BENEFÍCIO DE ASSISTÊNCIA SOCIAL AO IDOSO E AO DEFICIENTE – LOAS
 
 - O benefício de assistência social será prestado, a quem dela necessitar, independentemente de contribuição à seguridade social
 
