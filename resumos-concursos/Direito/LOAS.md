@@ -6,7 +6,7 @@
 
 
   1. Ser portador de deficiência ou ter idade mínima de 65 (sessenta e cinco) anos para o idoso não-­deficiente;
- 2. Renda familiar mensal (per capita) inferior a 1/4 do salário mínimo;
+  2. Renda familiar mensal (per capita) inferior a 1/4 do salário mínimo;
   3. Não estar vinculado a nenhum regime de previdência social;
   4. Não receber benefício de espécie alguma, salvo o de assistência médica;
   5. Comprovar não possuir meios de prover a própria manutenção e nem de tê-­la provida por sua família;
