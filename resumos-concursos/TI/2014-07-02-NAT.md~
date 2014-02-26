@@ -1,14 +1,3 @@
----
-layout: post
-title: Resumo - NAT
-category: concursos
-tags: [TI, redes, NAT]
----
-
-Resumo: NAT
-===========
-
-
 ## Funcionamento Básico
 
 O NAT surgiu por causa da escassez de endereços IP. A idéia básica por trás do NAT é atribuir um endereço IP a cada casa ou pequena empresa. Dentro da rede doméstica, cada computador possui um endereço IP local, que é usado para roteamento do tráfego interno à rede.
