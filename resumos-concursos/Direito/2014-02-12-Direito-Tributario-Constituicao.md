@@ -1,5 +1,3 @@
-
-
 # PRINCÍPIOS GERAIS
 
 **Art. 145.** A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
@@ -322,6 +320,6 @@ Cabe a lei complementar regular as situações em que:
 ### ISS
 
   - **fixar as suas alíquotas máximas e mínimas**;
-  - **excluir** da sua incidência **exportações** de serviços para o exterior.
-  – regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados.
+  - **excluir** da sua incidência **exportações** de serviços para o exterior;
+  - regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 
