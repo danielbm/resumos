@@ -1,5 +1,5 @@
-Red Hat: Servidores de Arquivo e Impressão
-==========================================
+Red Hat: Servidores de Arquivo
+==============================
 
 
 # Samba
@@ -38,6 +38,24 @@ Comando:
 
 # FTP
 
+**Objetivo:** transferir arquivos de forma confiável entre hosts em uma rede sem requerer que o usuário faça login no host remoto ou tenha conhecimento de como usar o sistema remoto.
 
+## Protocolo
+
+Quando um cliente FTP inicia a conexão com o servidor, este abre a porta 21 (porta de comandos). Essa porta é usada para enviar todos os comandos para o servidor. Qualquer dado requisitado ao servidor é enviado para o cliente por meio de uma porta de dados, cujo número varia dependendo do modo de conexão FTP.
+
+
+## Modos
+
+### Modo Ativo
+
+É o modo usado para transferir dados para a aplicação cliente.
+
+Quando uma transferência de dados no modo ativo se inicia pelo cliente FTP, o servidor abre uma conexão em sua porta 20, para uma porta aleatória, sem privilégios (maior que 1024) especificada pelo cliente.
+
+
+### Modo Passivo
+
+É iniciado pelo cliente FTP. Quando o cliente requisita dados do servidor, ele indica que o quer fazer em modo passivo. Assim, o servidor disponibiliza uma porta aleatória sem privilégios (acima de 1024) para que o cliente baixe os dados requisitados.
 
 
