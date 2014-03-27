@@ -88,9 +88,9 @@ Em resumo, quanto à relação entre ISS e ICMS, temos quatro situações possí
     - Recondicionamento de motores; 
     - Organização de festas e recepções; bufê. 
  
-        SERVIÇOS --> ISS 
-        MERCADORIAS --> ICMS 
- 
+            SERVIÇOS --> ISS
+        
+            MERCADORIAS --> ICMS 
 
   4. **Serviços não sujeitos ao ISS, seja por não estarem na lista, seja por não atenderem às condições da lista, como pode ocorrer com:**
 
@@ -99,7 +99,7 @@ Em resumo, quanto à relação entre ISS e ICMS, temos quatro situações possí
     - Alfaiataria e costura, prestados ao usuário final. 
     - Serviços de ourivesaria e lapidação. 
  
-        SERVIÇOS + MERCADORIAS --> ICMS 
+            SERVIÇOS + MERCADORIAS --> ICMS 
 
 
 # Imposto Sobre Serviços de Qualquer Natureza (ISS) - SP
@@ -113,7 +113,11 @@ prestado.
 Assim, em princípio, não importa o tipo de empresa (se é de comércio ou de serviços), seu objeto social ou a denominação que se dá ao serviço prestado. Se o fisco conseguir comprovar que o serviço prestado enquadra-se em um dos itens da lista de serviços da LC 116/2003, é devido o ISS. 
 
 A doutrina e a jurisprudência entendem que a lista de serviços é taxativa (numerus clausus), ou seja, não admite a incidência do ISS sobre quaisquer 
-outros serviços que não os expressamente previstos na Lei. No entanto, o legislador amenizou essa taxatividade ao utilizar-se de expressões como "congêneres", "em geral" ou "de qualquer natureza". Desse modo, acaba-se admitindo a inclusão de serviços na lista por interpretação extensiva (ou analógica). Note-se que admitir interpretação extensiva (ou analógica) é diferente de utilizar a analogia para exigir tributo não previsto em lei (o que seria vedado pelo CTN, art. 108, §1º). Os serviços “congêneres” são serviços correlatos àqueles expressamente previstos na lista da LC 116/03 e, portanto, já dispõem de previsão legal para sua exigência. 
+outros serviços que não os expressamente previstos na Lei. No entanto, o legislador amenizou essa taxatividade ao utilizar-se de expressões como "congêneres", "em geral" ou "de qualquer natureza". Desse modo, acaba-se admitindo a inclusão de serviços na lista por interpretação extensiva (ou analógica). 
+
+
+Note-se que admitir interpretação extensiva (ou analógica) é diferente de utilizar a analogia para exigir tributo não previsto em lei (o que seria vedado pelo CTN, art. 108, §1º). Os serviços “congêneres” são serviços correlatos àqueles expressamente previstos na lista da LC 116/03 e, portanto, já dispõem de previsão legal para sua exigência. 
+
 
 A incidência do ISS independe:
 
@@ -134,6 +138,7 @@ A incidência do ISS independe:
 Art. 161. O imposto não incide sobre:
   
   1. as exportações de serviços para o exterior do País;
+    - Não se enquadram nesse disposto os serviços desenvolvidos no Brasil cujo resultado aqui se verifique, ainda que o pagamento seja feito por residente no exterior.
   2. a prestação de serviços em relação de emprego, dos trabalhadores
   avulsos, dos diretores e membros de conselho consultivo ou de conselho
   fiscal de sociedades e fundações, bem como dos sócios-gerentes e dos
@@ -141,10 +146,6 @@ Art. 161. O imposto não incide sobre:
   3. o valor intermediado no mercado de títulos e valores mobiliários, o 
   valor dos depósitos bancários, o principal, juros e acréscimos moratórios
   relativos a operações de crédito realizadas por instituições financeiras.
-
-  - Não se enquadram no disposto no inciso 1 os serviços 
-  desenvolvidos no Brasil cujo resultado aqui se verifique, ainda que o
-  pagamento seja feito por residente no exterior.
 
 
 ## Isenções
@@ -196,8 +197,10 @@ Têm o propósito de desonerar a realização de atividades que promovam o acess
     1. a Federation Internationale de Football Association (FIFA).
     2. as associações e confederações de futebol dos países que participarão das Copas.
     3. a pessoa física, jurídica ou equiparada, nacional ou estrangeira, diretamente vinculada à organização ou à realização das Copas.
+
        - Para gozar da isenção, o sujeito passivo do imposto deverá comprovar que o serviço prestado está relacionado à organização ou à realização da Copa do Mundo de Futebol de 2014.
        - Essa isenção aplica-se também aos contribuintes optantes pelo Simples Nacional.
+
   - prestação de todo e qualquer serviço diretamente relacionado à organização e à realização dos Jogos Olímpicos e Paraolímpicos de 2016, quando o prestador ou o tomador dos serviços for:
 
     1. o Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016.
@@ -208,6 +211,7 @@ Têm o propósito de desonerar a realização de atividades que promovam o acess
     6. o Comitê Paraolímpico Brasileiro.
     7. os Comitês Olímpicos E Paraolimpicos de outras nacionalidades.
     8. as entidades nacionais e regionais de administração de desporto olímpico ou paraolímpico.
+
   - serviços prestados ou tomados pela mídia credenciada e pelos patrocinadores dos Jogos Olímpicos e Paraolímpicos de 2016, diretamente relacionados à organização e à realização dos Jogos e quando desenvolvidos no interior das instalações onde ocorrerão os eventos daqueles Jogos.
     
     1. Essa isenção é extensiva aos serviços de desembaraço aduaneiro, armazenamento e transporte municipal de bens provenientes do exterior do país, tão-somente quando utilizados no interior das instalações onde ocorrerão os eventos dos Jogos.
@@ -441,16 +445,11 @@ As SUP’s são obrigadas a emitirem Nota Fiscal de Serviços Eletrônica ou out
 
 O arbitramento da base de cálculo do ISS, no Município de São Paulo, deve
 ser aplicado nas seguintes hipóteses:
-• Falta de exibição, por parte do sujeito passivo, dos elementos
-necessários à fiscalização das operações realizadas.
-• Fundada suspeita de que os documentos fiscais não refletem o preço
-real dos serviços ou quando o preço declarado for notoriamente
-inferior ao corrente na praça.
-• Falta de inscrição do sujeito passivo na repartição fiscal competente.
-• Utilização de equipamento autenticador e transmissor de
-documentos fiscais eletrônicos (como o Emissor de Cupom Fiscal –
-ECF, por exemplo) que não atenda aos requisitos da legislação
-tributária.
+
+  - Falta de exibição, por parte do sujeito passivo, dos elementos necessários à fiscalização das operações realizadas.
+  - Fundada suspeita de que os documentos fiscais não refletem o preço real dos serviços ou quando o preço declarado for notoriamente inferior ao corrente na praça.
+  - Falta de inscrição do sujeito passivo na repartição fiscal competente.
+  - Utilização de equipamento autenticador e transmissor de documentos fiscais eletrônicos (como o Emissor de Cupom Fiscal – ECF, por exemplo) que não atenda aos requisitos da legislação tributária.
 
 ## Alíquotas
 
@@ -542,7 +541,6 @@ A partir da edição da Instrução Normativa SF/SUREM no. 06, de 22 de junho de
   - as sociedades uniprofissionais (SUP’s).
   - as instituições financeiras e demais entidades obrigadas à entrega da Declaração de Instituições Financeiras (DIF).
   - os prestadores de serviços que prestam exclusivamente um ou mais dos seguintes serviços:
-
       1. exploração de rodovia mediante cobrança de preço ou pedágio dos usuários.
       2. transporte público de passageiros, realizado pela Companhia do Metropolitano de São Paulo (METRÔ) e pelas concessionárias e permissionárias de ônibus.
       3. serviços de diversões, lazer, entretenimento e congêneres (item 12 da lista de serviços, exceto o subitem 12.06 – boates, "taxi-dancing" e congêneres – que é obrigado à emissão).
