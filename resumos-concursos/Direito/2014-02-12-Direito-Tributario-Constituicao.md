@@ -1,3 +1,11 @@
+---
+layout: post
+title: Resumo - Direito Tributário na Constituição Federal
+category: concursos
+tags: [Direito, Tributário]
+---
+
+
 # PRINCÍPIOS GERAIS
 
 **Art. 145.** A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
