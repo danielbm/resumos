@@ -488,4 +488,99 @@ Vejamos os serviços para os quais há previsão de uma alíquota de 2,0%:
   - Serviços de registros públicos, cartorários e notariais.
 
 
+## Lançamento e Recolhimento
+
+A regra geral é que o lançamento do ISS se dê por homologação, cabendo ao sujeito passivo recolher, espontaneamente, por meio de uma guia (cujo modelo deve ser aprovado pela Prefeitura), nos prazos regulamentares, o imposto correspondente aos serviços prestados em cada mês.
+
+Nada impede, entretanto, que, havendo necessidade, o lançamento do ISS
+se dê de ofício. Apesar do art. 197 limitar essa modalidade de lançamento às
+hipóteses em que o imposto deva ser calculado mediante fatores que
+independam do preço do serviço (como no caso de SUP’s), o arbitramento e mesmo os autos de infração são exemplos de lançamentos de ofício que
+dependem do preço do serviço.
+
+O art. 198 trata de formas especiais de recolhimento, que podem ser adotadas pelo Executivo, tendo em vista as peculiaridades de cada atividade:
+
+  - Recolhimento por antecipação
+    1. muito comum nos casos de eventos de diversões públicas, em que há cobrança de ingressos (tais como feiras, congressos, shows, espetáculos etc.). 
+    2. Estacionamentos também foram incluídos nessa regra.
+  - Recolhimento operação por operação (de pouca relevância).
+  - Recolhimento por estimativa mensal (já estudado).
+
+
+De acordo com os arts. 227 e 228, a falta de recolhimento ou o recolhimento a menor do ISS, pelo prestador do serviço ou responsável, nos prazos previstos em lei ou regulamento, implicará cobrança dos seguintes acréscimos, sem prejuízo das medidas administrativas e judiciais cabíveis:
+
+  - Multa moratória
+  - Juros moratórios
+
+
+Além dos acréscimos vistos acima, o art. 229 dispõe que o crédito tributário não pago no seu vencimento será corrigido monetariamente, mediante aplicação de coeficientes de atualização, nos termos da legislação própria.
+
+## Obrigações Acessórias
+
+As obrigações acessórias são aquelas prestações, previstas em lei, a que o sujeito passivo (ou outra pessoa a quem a lei atribuir) está obrigado a cumprir, no interesse da arrecadação ou da fiscalização dos tributos. Na legislação paulistana, podemos identificar quatro importantes obrigações acessórias:
+
+  1. Inscrição do sujeito passivo junto à Fazenda Municipal e atualização permanente do cadastro, diante de quaisquer modificações ocorridas.
+  2. Emissão dos documentos fiscais exigidos (em particular a Nota Fiscal de Serviços Eletrônica), de acordo com os requisitos regulamentares, e sua conservação, nos locais autorizados, pelo período determinado.
+  3. Registro das operações em livros fiscais, observando os requisitos regulamentares, e sua conservação, nos locais autorizados, pelo período determinado.
+  4. Apresentação de declarações de dados de interesse da administração tributária (declarações fiscais), na forma e nos prazos legais ou regulamentares.
+
+
+### NFS-e (Nota Fiscal Eletrônica)
+
+  1. Ao tomar um serviço, espera-se que o tomador solicite a emissão da NFS-e, informando ao prestador o seu CPF ou CNPJ.
+  2. O prestador acessa o sistema e emite a NFS-e. Caso haja mais de um serviço prestado, o prestador de serviços deverá emitir uma NFS-e para cada serviço prestado. Caso não seja possível a emissão da NFS-e, o prestador entrega ao cliente um Recibo Provisório de Serviços - RPS.
+  3. O sistema efetuará automaticamente o cálculo do ISS devido pelo prestador. O valor do tributo será impresso na NFS-e.
+  4. O prestador deverá gerar no sistema o documento de arrecadação relativo às NFS-e’s emitidas. O recolhimento do ISS relativo às NFS-e’s deve ser realizado até o dia 10 do mês seguinte à emissão.
+  5. Após o recolhimento será creditado automaticamente aos tomadores a parcela do ISS constante na NFS-e. O acompanhamento dos valores já creditados - e dos pendentes - pode ser feito pela Internet.
+  6. Os créditos acumulados na Nota Fiscal Paulistana poderão ser usados para abatimento de até 100% do IPTU ou ser depositados em conta-corrente ou poupança.
+
+
+A partir da edição da Instrução Normativa SF/SUREM no. 06, de 22 de junho de 2011, estão obrigados à emissão da NFS-e todos os prestadores de serviços (inclusive os imunes e os isentos) estabelecidos no Município de São Paulo, independentemente da receita bruta de serviços, exceto:
+
+  - os microempreendedores individuais (MEI), optante pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (SIMEI).
+  - os profissionais liberais e autônomos.
+  - as sociedades uniprofissionais (SUP’s).
+  - as instituições financeiras e demais entidades obrigadas à entrega da Declaração de Instituições Financeiras (DIF).
+  - os prestadores de serviços que prestam exclusivamente um ou mais dos seguintes serviços:
+
+      1. exploração de rodovia mediante cobrança de preço ou pedágio dos usuários.
+      2. transporte público de passageiros, realizado pela Companhia do Metropolitano de São Paulo (METRÔ) e pelas concessionárias e permissionárias de ônibus.
+      3. serviços de diversões, lazer, entretenimento e congêneres (item 12 da lista de serviços, exceto o subitem 12.06 – boates, "taxi-dancing" e congêneres – que é obrigado à emissão).
+
+## Infrações
+
+As infrações mais importantes de serem memorizadas são aquelas cujas multas são calculadas como um percentual sobre o imposto devido (variando de 10% a 100% do imposto devido). Em geral, representam descumprimento da obrigação principal (pagamento do imposto). Vejamos quais são elas:
+
+  - infrações relativas aos documentos fiscais:
+    - adulterar ou fraudar, nota fiscal de serviços eletrônica ou outro documento previsto em regulamento – multa: 100% do valor do imposto devido, observada a imposição mínima de R$ 1.433,44.
+    - deixar de emitir, ou o fazer com importância diversa do valor dos serviços, nota fiscal de serviços eletrônica ou outro documento previsto em regulamento (exceto bilhetes de ingresso não autorizados na conformidade do regulamento) – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 1.075,08.
+    - emitir, sem efetuar o pagamento do imposto correspondente, para operações tributáveis, documento fiscal referente a serviços não tributáveis ou isentos ou, em proveito próprio ou alheio, utilizar esses documentos para a produção de qualquer efeito fiscal – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 716,72.
+    - emitir, tendo efetuado o pagamento integral do imposto correspondente, bilhetes de ingresso não autorizados na conformidade do regulamento – multa: 20% do valor do imposto devido, observada a imposição mínima de R$ 215,01.
+    - deixar de emitir, ou o fazer com importância diversa do valor dos serviços, o tomador de serviço responsável pelo pagamento do imposto, nota fiscal eletrônica do tomador/intermediário de serviços – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 1.075,08.
+  - infrações relativas às declarações que devam conter os dados referentes aos serviços prestados ou tomados de terceiros, ou o valor do imposto (inclusive quanto às declarações apresentadas pelas INSTITUIÇÕES FINANCEIRAS E ASSEMELHADAS):
+    - deixar de declarar os serviços, declará-los com dados inexatos ou incompletos, nos casos em que NÃO HOUVER SIDO RECOLHIDO INTEGRALMENTE O IMPOSTO correspondente ao período da declaração – multa: 50% do valor do imposto devido, referente aos serviços não declarados ou declarados com dados inexatos ou incompletos, observada a imposição mínima de R$ 148,23 por declaração.
+    - deixar de declarar os serviços, declará-los com dados inexatos ou incompletos, nos casos em que HOUVER SIDO RECOLHIDO INTEGRALMENTE O IMPOSTO correspondente ao período da declaração – multa: 20% do valor do imposto devido, referente aos serviços não declarados ou declarados com dados inexatos ou incompletos, observada a imposição mínima de R$ 71,67 por declaração.
+  - infrações relativas à Nota Fiscal de Serviços Eletrônica (NFS-e):
+      - emitir, o prestador de serviço obrigado à emissão da NFS-e, documento fiscal que não seja hábil ou adequado à respectiva prestação de serviço – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 1.075,08.
+      - dificultar, o prestador de serviço obrigado à emissão da NFS-e, ao tomador de serviço o exercício dos direitos previstos na Lei Municipal no 14.097, de 2005, inclusive por meio de omissão de informações ou pela criação de obstáculos procedimentais – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 1.075,08.
+      - induzir, o prestador de serviço obrigado à emissão da NFS-e, o tomador de serviço a não exercer os direitos previstos na Lei Municipal no 14.097, de 2005 – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 1.075,08.
+      - substituir RPS por NFS-e, após o prazo regulamentar – multa: 20% do valor do imposto devido, observada a imposição mínima de R$ 75,94 por documento substituído fora do prazo.
+      - deixar de substituir RPS por NFS-e – multa: 50% do valor do imposto devido, observada a imposição mínima de R$ 1.075,08.
+
+
+O art. 231 estabelece que, no concurso de infrações (prática simultânea de mais de uma infração), as penalidades serão aplicadas conjuntamente, uma para cada infração, ainda que classificadas no mesmo dispositivo legal.
+
+O art. 232 determina que, na reincidência, a infração será punida com o dobro da penalidade e, a cada reincidência subseqüente, aplicar-se-á multa correspondente à reincidência anterior, acrescida de 20% sobre o seu valor.
+
+Entende-se por reincidência a nova infração, violando a mesma norma tributária, cometida pelo mesmo infrator, dentro do prazo de 5 anos, contados da data em que se tornar definitiva, administrativamente, a penalidade relativa à infração anterior.
+
+## Disposições Gerais
+
+De acordo com o art. 262, sendo insatisfatórios os meios normais de fiscalização, o Executivo poderá exigir a adoção de instrumentos ou documentos especiais necessários à perfeita apuração dos serviços prestados, da receita auferida e do imposto devido.
+
+O art. 264 determina que os contribuintes dos tributos mobiliários, bem como os responsáveis tributários, são obrigados a franquear o acesso da Fiscalização Tributária Municipal a quaisquer impressos, documentos, papéis, livros, declarações de dados, programas e arquivos magnéticos ou eletrônicos, armazenados por qualquer meio, de natureza contábil ou fiscal.
+
+Já o art. 263 estabelece que são sujeitos à apreensão, na forma regulamentar, os bens móveis existentes no estabelecimento ou em trânsito, bem como os livros, documentos e papéis que constituam prova material de infração à legislação municipal atinente ao ISS.
+
+
 
