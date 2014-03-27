@@ -4,16 +4,7 @@
 Resumo: Legislação Tributária Municipal - SP
 ============================================
 
-
-# Dispisições Constitucionais Sobre o ISS
-
-
-Vale lembrar que a Constituição Federal não cria tributos, apenas
-autoriza que sejam criados pelo ente federado que detém a competência para
-fazê-lo.
-
-
-## Tributos de Competência dos Municípios
+# Tributos de Competência dos Municípios
 
 Art. 156. Compete aos Municípios instituir impostos sobre:
 
@@ -27,41 +18,102 @@ em lei complementar.
 O Município de São Paulo, exercendo sua competência tributária,
 instituiu os seguintes tributos:
 
-  - IMPOSTOS:
+ - IMPOSTOS:
 
-    1. IPTU: Imposto sobre a Propriedade Predial e Territorial Urbana.
-    2. ITBI: Imposto sobre a Transmissão de Bens Imóveis e de Direitos a 
-    eles Relativos, Realizada Inter Vivos, por Ato Oneroso.
-    3. ISS: Imposto Sobre Serviços de Qualquer Natureza.
+   1. IPTU: Imposto sobre a Propriedade Predial e Territorial Urbana.
+   2. ITBI: Imposto sobre a Transmissão de Bens Imóveis e de Direitos a eles Relativos, Realizada Inter Vivos, por Ato Oneroso.
+   3. ISS: Imposto Sobre Serviços de Qualquer Natureza.
 
-  - TAXAS:
+ - TAXAS:
 
-    1. em razão do exercício do poder de polícia:
-       - Taxa de Fiscalização de Estabelecimentos.
-       - Taxa de Fiscalização de Anúncios.
-    2. pela utilização, efetiva ou potencial, de serviços públicos específicos 
-    e divisíveis, prestados ao contribuinte ou postos a sua disposição.
-       - Taxa de Resíduos Sólidos de Serviços de Saúde.
+   1. em razão do exercício do poder de polícia:
+     - Taxa de Fiscalização de Estabelecimentos.
+     - Taxa de Fiscalização de Anúncios.
+   2. pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição.
+     - Taxa de Resíduos Sólidos de Serviços de Saúde.
 
-  - CONTRIBUIÇÕES DE MELHORIA: decorrente pavimentação de vias e logradouros públicos.
+ - CONTRIBUIÇÕES DE MELHORIA: decorrente pavimentação de vias e logradouros públicos.
 
-  - CONTRIBUIÇÕES ESPECIAIS:
+ - CONTRIBUIÇÕES ESPECIAIS:
 
-     1. Contribuição previdenciária: cobrada dos servidores municipais,
+    1. Contribuição previdenciária: cobrada dos servidores municipais,
 para o custeio, em benefício destes, do regime previdenciário, com
 alíquota não inferior à da contribuição dos servidores titulares de
 cargos efetivos da União.
-     2. COSIP: Contribuição para o custeio do Serviço de Iluminação Pública,
+    2. COSIP: Contribuição para o custeio do Serviço de Iluminação Pública,
 facultada sua cobrança na fatura de consumo de energia elétrica.
 
-# Imposto Sobre Serviços de Qualquer Natureza (ISS)
+
+# O ISS na Constituição Federal
+
+O art. 156, III, da Constituição já traz duas informações fundamentais a respeito do ISS: 
+
+  - Os serviços já tributáveis pelo ICMS (serviços de transporte interestadual e intermunicipal e de comunicação) não podem ser tributáveis pelo ISS. Com isso, procura-se evitar a bitributação (dois entes exigirem tributos de um mesmo sujeito passivo sobre um mesmo fato gerador). 
+  - Os serviços tributáveis pelo ISS, apesar de serem de qualquer natureza, devem ser aqueles definidos em lei complementar. Ou seja, a lei complementar deve enumerar quais os serviços sujeitos à incidência do ISS. Assim, em princípio, os serviços que estivessem fora dela, não poderiam ser tributados pelo ISS. Comentaremos mais à frente como essa limitação é driblada pelos fiscos. 
+
+Já o §3º do art. 156 define mais atribuições para a lei complementar do ISS, quais sejam:
+
+  - Fixar suas alíquotas máximas (obedecendo ao princípio tributário do não-confisco) e mínimas (evitando a chamada "guerra fiscal" entre os municípios, por meio da qual se procura atrair empresas para se estabelecerem em seus territórios – gerando emprego e renda – em troca da concessão de incentivos fiscais). 
+  - Excluir da sua incidência exportações de serviços para o exterior (demonstrando o intuito de incentivar as exportações). 
+  - Regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados. Eis mais um mecanismo para evitar a "guerra fiscal". 
+
+A alíquota mínima é tida como 2% (A LC não definiu a alíquota mínima), com exceção dos sequintes serviços, que possuem alíquotas inferiores a 2%:
+
+  1. Execução de construção civil;
+  2. Demolição;
+  3. Reparação, restauração e conservação de edifícios, rodovias, portos, estradas e congêneres.
+
+
+Enquanto uma nova Lei Complementar não estabelecer a forma e as condições para a concessão de isenções, incentivos e benefícios fiscais, eles não podem ser concedidos de tal maneira que resulte, direta ou indiretamente, numa alíquota mínima inferior a 2,0%.
+
+
+## ISS versus ICMS
+
+
+Em resumo, quanto à relação entre ISS e ICMS, temos quatro situações possíveis: 
+
+  1. **Serviços sujeitos à incidência do ICMS (transporte interestadual e intermunicipal e de comunicação):**
+ 
+        SERVIÇOS + MERCADORIAS --> ICMS 
+ 
+  2. **Serviços sujeitos à incidência do ISS, sem ressalvas: regra geral!**
+ 
+        SERVIÇOS + MERCADORIAS --> ISS 
+ 
+  3. **Serviços sujeitos à incidência do ISS, com ressalvas:**
+
+    - execução de obras de construção civil, hidráulica e elétrica; 
+    - Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres; 
+    - Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto; 
+    - Recondicionamento de motores; 
+    - Organização de festas e recepções; bufê. 
+ 
+        SERVIÇOS --> ISS 
+        MERCADORIAS --> ICMS 
+ 
+
+  4. **Serviços não sujeitos ao ISS, seja por não estarem na lista, seja por não atenderem às condições da lista, como pode ocorrer com:**
+
+    - Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisórias, placas de gesso e congêneres. 
+    - Instalação e montagem de aparelhos, máquinas e equipamentos, inclusive montagem industrial, prestados ao usuário final. 
+    - Alfaiataria e costura, prestados ao usuário final. 
+    - Serviços de ourivesaria e lapidação. 
+ 
+        SERVIÇOS + MERCADORIAS --> ICMS 
+
+
+# Imposto Sobre Serviços de Qualquer Natureza (ISS) - SP
 
 
 ## Fato Gerador e Incidência
 
-O artigo 160 da CLTMSP traz a lista de serviços cuja prestação constitui
-fato gerador do ISS (Praticamente todo tipo de serviço).
+A LC 116/2003 define como fato gerador do ISS a prestação dos serviços constantes da lista anexa à Lei, ainda que esses não se constituam como atividade preponderante do prestador. O §4º do artigo 1º ainda alerta que a incidência do imposto não depende da denominação dada ao serviço 
+prestado. 
 
+Assim, em princípio, não importa o tipo de empresa (se é de comércio ou de serviços), seu objeto social ou a denominação que se dá ao serviço prestado. Se o fisco conseguir comprovar que o serviço prestado enquadra-se em um dos itens da lista de serviços da LC 116/2003, é devido o ISS. 
+
+A doutrina e a jurisprudência entendem que a lista de serviços é taxativa (numerus clausus), ou seja, não admite a incidência do ISS sobre quaisquer 
+outros serviços que não os expressamente previstos na Lei. No entanto, o legislador amenizou essa taxatividade ao utilizar-se de expressões como "congêneres", "em geral" ou "de qualquer natureza". Desse modo, acaba-se admitindo a inclusão de serviços na lista por interpretação extensiva (ou analógica). Note-se que admitir interpretação extensiva (ou analógica) é diferente de utilizar a analogia para exigir tributo não previsto em lei (o que seria vedado pelo CTN, art. 108, §1º). Os serviços “congêneres” são serviços correlatos àqueles expressamente previstos na lista da LC 116/03 e, portanto, já dispõem de previsão legal para sua exigência. 
 
 A incidência do ISS independe:
 
@@ -265,6 +317,25 @@ O tomador do serviço deverá exigir Nota Fiscal de Serviços Eletrônica, Cupom
   - os hotéis e motéis, quando tomarem ou intermediarem os serviços de tinturaria e lavanderia, a eles prestados por prestadores de serviços estabelecidos no Município de São Paulo.
 
 O **rol** de serviços na lista é **exemplificativo**.
+
+### Situações em que o Tomador ou Intermediário é Responsável Tributário pelo ISS
+
+  1. Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário. 
+  2. Execução, por administração, empreitada ou subempreitada, de obras de construção civil, hidráulica ou elétrica e de outras obras semelhantes, inclusive sondagem, perfuração de poços, escavação, drenagem e irrigação, terraplanagem, pavimentação, concretagem e a instalação e montagem de produtos, peças e equipamentos. 
+  3. Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo. 
+Demolição (subitem 7.04).
+  4. Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres. 
+  5. Varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer.
+  6. Limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e congêneres. 
+  7. Controle e tratamento de efluentes de qualquer natureza e de agentes físicos, químicos e biológicos. 
+  8. Florestamento, reflorestamento, semeadura, adubação e congêneres. 
+  9. Escoramento, contenção de encostas e serviços congêneres. 
+  10. Vigilância, segurança ou monitoramento de bens e pessoas. 
+  11. Fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive de empregados ou trabalhadores, avulsos ou temporários, contratados pelo prestador de serviço. 
+  12. Planejamento, organização e administração de feiras, exposições, congressos e congêneres.
+
+
+O fundamento para a atribuição da responsabilidade tributária nesses casos é justamente o fato de o serviço ser considerado devido no local da prestação, não no do estabelecimento do prestador (que seria a regra geral). Como pode acontecer de o prestador estar estabelecido fora do Município, enquanto o tomador ou intermediário, em geral, está estabelecido no Município, a cobrança torna-se mais fácil atribuindo ao tomador ou intermediário a responsabilidade pelo pagamento do ISS. 
 
 
 ## Base de Cálculo
