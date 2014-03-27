@@ -1,3 +1,11 @@
+---
+layout: post
+title: Resumo - LOAS
+category: concursos
+tags: [Direito, Previdenciário]
+---
+
+
 # BENEFÍCIO DE ASSISTÊNCIA SOCIAL AO IDOSO E AO DEFICIENTE – LOAS
 
 - O benefício de assistência social será prestado, a quem dela necessitar, independentemente de contribuição à seguridade social
