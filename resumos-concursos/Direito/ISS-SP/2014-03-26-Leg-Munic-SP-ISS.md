@@ -96,8 +96,7 @@ Em resumo, quanto à relação entre ISS e ICMS, temos quatro situações possí
  
             SERVIÇOS --> ISS
         
-            MERCADORIAS --> ICMS 
-
+            MERCADORIAS --> ICMS
   4. **Serviços não sujeitos ao ISS, seja por não estarem na lista, seja por não atenderem às condições da lista, como pode ocorrer com:**
 
     - Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisórias, placas de gesso e congêneres. 
