@@ -78,15 +78,15 @@ Enquanto uma nova Lei Complementar não estabelecer a forma e as condições par
 
 Em resumo, quanto à relação entre ISS e ICMS, temos quatro situações possíveis: 
 
-  1. **Serviços sujeitos à incidência do ICMS (transporte interestadual e intermunicipal e de comunicação):**
+  - **Serviços sujeitos à incidência do ICMS (transporte interestadual e intermunicipal e de comunicação):**
  
         SERVIÇOS + MERCADORIAS --> ICMS 
  
-  2. **Serviços sujeitos à incidência do ISS, sem ressalvas: regra geral!**
+  - **Serviços sujeitos à incidência do ISS, sem ressalvas: regra geral!**
  
         SERVIÇOS + MERCADORIAS --> ISS 
  
-  3. **Serviços sujeitos à incidência do ISS, com ressalvas:**
+  - **Serviços sujeitos à incidência do ISS, com ressalvas:**
 
     - execução de obras de construção civil, hidráulica e elétrica; 
     - Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres; 
@@ -97,7 +97,7 @@ Em resumo, quanto à relação entre ISS e ICMS, temos quatro situações possí
             SERVIÇOS --> ISS
         
             MERCADORIAS --> ICMS
-  4. **Serviços não sujeitos ao ISS, seja por não estarem na lista, seja por não atenderem às condições da lista, como pode ocorrer com:**
+  - **Serviços não sujeitos ao ISS, seja por não estarem na lista, seja por não atenderem às condições da lista, como pode ocorrer com:**
 
     - Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisórias, placas de gesso e congêneres. 
     - Instalação e montagem de aparelhos, máquinas e equipamentos, inclusive montagem industrial, prestados ao usuário final. 
