@@ -119,5 +119,36 @@ São isentos:
     3. mantenham escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão;
 
 
+# Contribuição para Custeio da Iluminação Pública (COSIP)
+
+## A COSIP na CF e no STF
+
+**Súmula STF número 670:** _"O serviço de iluminação pública não pode ser remunerado mediante taxa."_
+
+_Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública, observados os principios da legalidade, anterioridade, noventena e irretroatividade._
+
+_É facultada a cobrança dessa contribuição na fatura de consumo de energia elétrica._
+
+
+
+## A COSIP no Município de São Paulo
+
+### Contribuinte
+
+Para ser considerado contribuinte, basta que se possua ligação de energia elétrica regular ao sistema de energia elétrica.
+
+Cuidado: quem faz "gato" não paga COSIP.
+
+A contribuição é incluída na fatura mensal de energia elétrica que a concessionária emite. Consumidores residenciais pagam R$ R$ 3,50 por mês. Consumidores não residenciais pagam R$ 11,00 por mês.
+
+### Isenção
+
+Art. 440. Ficam isentos da Contribuição os contribuintes vinculados às unidades consumidoras classificadas como "tarifa social de baixa renda" pelo critério da Agência Nacional de Energia Elétrica – ANEEL.
+
+Os contribuintes residentes ou instalados em vias ou logradouros que não possuam iluminação pública são também isentos da COSIP.
+
+### Disposições Finais
+
+O valor arrecadado pela COSIP deve ser aplicado exclusivamente ao custeio do serviço de iluminação pública.
 
 
