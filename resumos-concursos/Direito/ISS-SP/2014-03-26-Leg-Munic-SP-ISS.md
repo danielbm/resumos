@@ -12,42 +12,34 @@ Resumo: Legislação Tributária Municipal - SP
 
 # Tributos de Competência dos Municípios
 
-Art. 156. Compete aos Municípios instituir impostos sobre:
+_Art. 156. Compete aos Municípios instituir impostos sobre:_
 
-  - propriedade predial e territorial urbana;
-  - transmissão "inter vivos", a qualquer título, por ato oneroso, de
-bens imóveis, por natureza ou acessão física, e de direitos reais sobre
-imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição;
-  - serviços de qualquer natureza, não compreendidos no art. 155, II, definidos 
-em lei complementar.
+  - _propriedade predial e territorial urbana;_
+  - _transmissão "inter vivos", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobreimóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição;_
+  - _serviços de qualquer natureza, não compreendidos no art. 155, II, definidos em lei complementar._
 
-O Município de São Paulo, exercendo sua competência tributária,
-instituiu os seguintes tributos:
+O Município de São Paulo, exercendo sua competência tributária, instituiu os seguintes tributos:
 
- - IMPOSTOS:
+ - Impostos:
 
    1. IPTU: Imposto sobre a Propriedade Predial e Territorial Urbana.
    2. ITBI: Imposto sobre a Transmissão de Bens Imóveis e de Direitos a eles Relativos, Realizada Inter Vivos, por Ato Oneroso.
    3. ISS: Imposto Sobre Serviços de Qualquer Natureza.
 
- - TAXAS:
+ - Taxas:
 
    1. em razão do exercício do poder de polícia:
-     - Taxa de Fiscalização de Estabelecimentos.
-     - Taxa de Fiscalização de Anúncios.
+     - Taxa de Fiscalização de Estabelecimentos - TFE.
+     - Taxa de Fiscalização de Anúncios TFA.
    2. pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição.
-     - Taxa de Resíduos Sólidos de Serviços de Saúde.
+     - Taxa de Resíduos Sólidos de Serviços de Saúde - TRSS.
 
- - CONTRIBUIÇÕES DE MELHORIA: decorrente pavimentação de vias e logradouros públicos.
+ - Contribuições de Melhoria: decorrente pavimentação de vias e logradouros públicos.
 
- - CONTRIBUIÇÕES ESPECIAIS:
+ - Contribuições Especiais:
 
-    1. Contribuição previdenciária: cobrada dos servidores municipais,
-para o custeio, em benefício destes, do regime previdenciário, com
-alíquota não inferior à da contribuição dos servidores titulares de
-cargos efetivos da União.
-    2. COSIP: Contribuição para o custeio do Serviço de Iluminação Pública,
-facultada sua cobrança na fatura de consumo de energia elétrica.
+    1. Contribuição previdenciária: cobrada dos servidores municipais, para o custeio, em benefício destes, do regime previdenciário, com alíquota não inferior à da contribuição dos servidores titulares de cargos efetivos da União.
+    2. COSIP: Contribuição para o custeio do Serviço de Iluminação Pública, facultada sua cobrança na fatura de consumo de energia elétrica.
 
 
 # O ISS na Constituição Federal
